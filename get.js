@@ -9,5 +9,5 @@
 	}
 
 	function gfg_Run() {
-		alert(getCookies())
+		alert(getCookies());
 	}
