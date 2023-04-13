@@ -9,5 +9,5 @@
 	}
 
 	function gfg_Run() {
-		el_down.innerHTML = getCookies();
+		alert(getCookies())
 	}
